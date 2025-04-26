@@ -7,7 +7,7 @@ const awsmobile = {
     aws_cloud_logic_custom: [
         {
             name: 'RealEstateAPI',
-            endpoint: 'https://osgr3pwwsl.execute-api.us-east-2.amazonaws.com/prod',  // Placeholder; will update after API Gateway setup
+            endpoint: 'https://4y375vh3kf.execute-api.us-east-2.amazonaws.com/prod', 
             region: 'us-east-2'
         }
     ]
