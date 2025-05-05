@@ -7,7 +7,7 @@ const awsmobile = {
     aws_cloud_logic_custom: [
         {
             name: 'RealEstateAPI',
-            endpoint: 'https://4y375vh3kf.execute-api.us-east-2.amazonaws.com/prod', 
+            endpoint: 'https://yl47kwdn47.execute-api.us-east-2.amazonaws.com/prod', 
             region: 'us-east-2'
         }
     ]
