@@ -1,7 +1,5 @@
-import { API } from 'aws-amplify';
 import React, { useState, useEffect } from 'react';
-//import { API } from '@aws-amplify/api';
-import { withAuthenticator } from '@aws-amplify/ui-react';
+import { API } from '@aws-amplify/api';
 import './App.css';
 
 function App() {
@@ -99,4 +97,4 @@ function App() {
   );
 }
 
-export default withAuthenticator(App);
+export default App; // Removed withAuthenticator
